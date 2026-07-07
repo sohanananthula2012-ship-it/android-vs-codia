@@ -1,3 +1,2 @@
-Codia - Android VS Mobile IDE
-
-See full project.
+# Codia - Android VS
+Mobile VS Code with Terminal, AI, Git integration.
